@@ -31,6 +31,7 @@ Table of Contents
 
 7장. PyOD 라이브러리 이상치 탐지 활용
 
+---
 ### 데이터셋 링크: https://shorturl.at/qC0d6
 
 ### 구매 링크
