@@ -12,17 +12,26 @@ AI와 머신러닝 분야의 연구자와 개발자 또한 이 책을 통해 데
 
 ## 목 차
 저자 소개 
+
 Table of Contents
+
 들어가기 전에 
+
 1장. 이상치 탐지 개요 
+
 2장. 이상치 탐지 기초 
+
 3장. 다변량 변수의 이상치 탐지 
+
 4장. Fraud Detection 사기 탐지 
+
 5장. 딥러닝 지도학습 이상치 분류 
+
 6장. 딥러닝 Autoencoder로 시계열 이상치 탐지 
+
 7장. PyOD 라이브러리 이상치 탐지 활용
 
-#### 데이터셋 링크: https://shorturl.at/qC0d6
+### 데이터셋 링크: https://shorturl.at/qC0d6
 
-#### 구매 링크
+### 구매 링크
 유페이퍼: https://nowave.upaper.kr/content/1185044
