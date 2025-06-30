@@ -2,7 +2,8 @@
 
 데이터 분석 전문가를 위한 Python으로 시작하는 이상치 탐지 (Anomaly Detection) 실전 가이드
 
-![image](https://beat-by-wire.gitbook.io/beat-by-wire/~gitbook/image?url=https%3A%2F%2F3055094660-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FYzxz4QeW9UTrhrpWwKiQ%252Fuploads%252FHZCegrg4eOvGHnMuaZnV%252FAI%2520Master-%25E1%2584%258B%25E1%2585%25B5%25E1%2584%2589%25E1%2585%25A1%25E1%2586%25BC%25E1%2584%258E%25E1%2585%25B5%25E1%2584%2590%25E1%2585%25A1%25E1%2586%25B7%25E1%2584%258C%25E1%2585%25B5%2520with%2520Phthon.png%3Falt%3Dmedia%26token%3Dba1132c9-e4a4-4963-951f-05f255403fb3&width=300&dpr=4&quality=100&sign=ddca1748&sv=2)
+
+<img src="https://beat-by-wire.gitbook.io/beat-by-wire/~gitbook/image?url=https%3A%2F%2F3055094660-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FYzxz4QeW9UTrhrpWwKiQ%252Fuploads%252FHZCegrg4eOvGHnMuaZnV%252FAI%2520Master-%25E1%2584%258B%25E1%2585%25B5%25E1%2584%2589%25E1%2585%25A1%25E1%2586%25BC%25E1%2584%258E%25E1%2585%25B5%25E1%2584%2590%25E1%2585%25A1%25E1%2586%25B7%25E1%2584%258C%25E1%2585%25B5%2520with%2520Phthon.png%3Falt%3Dmedia%26token%3Dba1132c9-e4a4-4963-951f-05f255403fb3&width=300&dpr=4&quality=100&sign=ddca1748&sv=2" width="500" height="707"/>
 
 ## 책 소개
 
